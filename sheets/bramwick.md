@@ -4,7 +4,7 @@
 **Centaur · Paladin 3 (Oath of the Ancients) · Guard background**
 *medium fey · speed 40 ft. · proficiency bonus +2*
 
-> grew up in the orchards. took the oath at nineteen because a woman he admired had taken one, and has now kept it a great deal longer than she did. he does not know what became of her. he believes a guest list is a moral document and will say so to anyone.
+> grew up in the orchards. took the oath at nineteen because a woman thery admired had taken one, and has now kept it a great deal longer than she did. he does not know what became of her. he believes a guest list is a moral document and will say so to anyone.
 
 ---
 
@@ -61,14 +61,3 @@
 chain mail · shield · longsword · 6 javelins · holy symbol (a pressed hawthorn flower under glass) · priest's pack · gaming set · hooded lantern · manacles · traveler's clothes · **21 gp**
 
 ---
-
-## the job
-
-**post:** the Doorwarden — the list, the coats, the throwing-out.
-**Perquisite (1/session):** declare that one creature is on, or is not on, the guest list. **the list agrees with you.** *(§8 calls this a legendary use. it is.)*
-
-**your Toll card:** *the sound of her voice.*
-**Puck's angle:** he doesn't ask for sabotage. he offers a name, for free, and lets it sit there all night.
-**where you're already tangled:** ask your DM nothing about this and let it land. you know the orchards. you will know the bride when she speaks.
-
-**three things true about you:** you have never thrown anyone out who didn't need it. you check the list twice and then a third time. you have not said her name aloud in eleven years.
