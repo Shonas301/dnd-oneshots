@@ -61,16 +61,3 @@
 
 leather armor · 2 daggers · a fiddle with a repaired neck · entertainer's pack · costume · mirror · perfume · traveler's clothes · **30 gp**
 *and:* a century of sheet music she has not looked at since the first year.
-
----
-
-## the job
-
-**post:** the Fiddler — the processional. everyone must dance.
-**Perquisite (1/session):** declare that a piece of music is playing right now, and name it.
-
-**your Toll card:** *the last night she played for free, for nobody, badly.*
-**Puck's angle:** he offers the memory back and a room where no one can hear her. she wants to be bad at something again, and he is the only person in four hundred years who has offered.
-**where you're already tangled:** the play (§6.2). Dob Cranny wants notes. you have a century of notes and no way to deliver them that isn't cruelty — which is exactly the DC 15 Persuasion to cut his monologue, and exactly the thing you'd have to become to make it *worse* on purpose.
-
-**three things true about you:** you tune by ear and you are never wrong. you have not enjoyed applause since the reign before last. you would like, once, to be asked rather than summoned.
