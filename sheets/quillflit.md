@@ -62,13 +62,3 @@ leather armor · shortsword · 2 daggers · shortbow, 20 arrows, quiver · thiev
 
 ---
 
-## the job
-
-**post:** the Seamstress — Titania's train, Oberon's collar, sixty yards of moth-silk.
-**Perquisite (1/session):** declare that you have already altered one garment a creature is wearing.
-
-**your Toll card:** *her own face — the one underneath.* she cannot get back to it tonight and is pretending that's fine.
-**Puck's angle:** he's wearing it. he doesn't mention it and he doesn't take it off.
-**where you're already tangled:** everywhere. a changeling on staff turns the whole village into a set of doors, and it makes Puck's *Shifting Shape* a real problem rather than a party trick. DC 22 Insight to see through him. you will try anyway.
-
-**three things true about you:** you can't remember which shop was the real one. you pin faster than you think. you have never lied about the work, only about who did it.
