@@ -4,7 +4,7 @@
 **Changeling (Fey) · Rogue 3 (Arcane Trickster) · Charlatan background**
 *medium fey · speed 30 ft. · proficiency bonus +2*
 
-> kept a shop in three cities under four faces and got bored of every one of them. took this post because moth-silk is the only thing she has ever met that cannot be lied to. it either hangs or it doesn't.
+ kept a shop in three cities under four faces and got bored of every one of them. willing to take any post for a week to see how the face fits
 
 ---
 
